@@ -15,9 +15,9 @@ Collaborative python-based algorithm aimed to outperform the S&amp;P 500, create
 (*NEED TO FINISH*)
 
 # How to Run Program
-1. pip -m venv
-2. pip install numpy....
+1. ```pip -m venv
+2. ```pip install numpy....
 
 # Edit / Make Changes
-1. git -m commit 'Add change'
-2. git -m push
+1. ```git -m commit 'Add change'
+2. ```git -m push
