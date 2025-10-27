@@ -15,9 +15,15 @@ Collaborative python-based algorithm aimed to outperform the S&amp;P 500, create
 (*NEED TO FINISH*)
 
 # How to Run Program
-```pip -m venv
-```pip install numpy....
+```
+pip -m venv
+pip install numpy
+(*NEED TO FINISH*) 
+```
 
 # Edit / Make Changes
-```git -m commit 'Add change'
-```git -m push
+```
+git -m commit 'Add change'
+git -m push
+(*NEED TO FINISH*)
+```
