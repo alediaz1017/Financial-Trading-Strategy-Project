@@ -1,6 +1,0 @@
-pandas
-yfinance
-matplotlib
-numpy
-vaderSentiment
-eventregistry
